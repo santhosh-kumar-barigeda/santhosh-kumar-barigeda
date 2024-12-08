@@ -12,7 +12,7 @@ One project I'm especially proud of is an Airbnb clone that I built from the gro
 ## What’s Next? 📚
 I'm currently expanding my skills by learning WebSockets and WebRTC, and I’m excited to incorporate these technologies into my future projects.
 
-### Skills & Interests ⚙️
+## Skills & Interests ⚙️
 
 - **Programming Languages**          : JavaScript, TypeScript
 - **Front-End Technologies**         : React.js, Redux Toolkit, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, Ant Design
@@ -23,7 +23,7 @@ I'm currently expanding my skills by learning WebSockets and WebRTC, and I’m e
 - **Additional Skills**              : RESTful API Development, Performance Optimization, Responsive Web Design, State Management, Form Validation
 - **Soft Skills**                    : Problem Solving, Team Collaboration, Effective Communication, Adaptability
 
-### Projects 🖥️
+## Projects 🖥️
 
 - **Airbnb Clone - Hotel Booking Website**: Developed a full-stack hotel booking system using React.js, Node.js, Express.js, and MongoDB, allowing users to browse and book from over 70 properties. Features JWT authentication, AWS S3 media storage for secure image uploads, and responsive user interfaces designed with Tailwind CSS. Managed state using Context API to optimize booking and Wishlist functionality. [Project Link]
 
