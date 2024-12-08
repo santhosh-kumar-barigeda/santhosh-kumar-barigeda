@@ -27,14 +27,14 @@ I'm currently expanding my skills by learning WebSockets and WebRTC, and I’m e
 
 - **Airbnb Clone - Hotel Booking Website**: Developed a full-stack hotel booking system using React.js, Node.js, Express.js, and MongoDB, allowing users to browse and book from over 70 properties. Features JWT authentication, AWS S3 media storage for secure image uploads, and responsive user interfaces designed with Tailwind CSS. Managed state using Context API to optimize booking and Wishlist functionality. [Project Link]
 
-
+## Other Details 📝
 ### Education 🎓
 
 - **Bachelor of Technology in Mechanical Engineering** - NSRIT (2019)
 
 ### Connect with Me 📬
 
-- Email: santhoshbarigeda.jobs@gmail.com
+- Email: sbk10378@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/santhosh-kumar-barigeda]
 - Portfolio: [https://portfolio-git-main-santhoshs-projects-2b80b154.vercel.app]
 
