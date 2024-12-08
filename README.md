@@ -7,10 +7,10 @@ Hey there! I'm Santhosh, a passionate MERN Stack Developer transitioning from IT
 ### Skills & Interests:
 
 - **Programming Languages**          : JavaScript, TypeScript
-- **Front-End Technologies**         : React.js, Redux Toolkit, Next.js, HTML5, CSS3, Tailwind CSS
+- **Front-End Technologies**         : React.js, Redux Toolkit, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, Ant Design
 - **Back-End Technologies**          : Node.js, Express.js
 - **Database Management**            : MongoDB, Prisma
-- **Cloud Services**                 : AWS (S3, EC2, IAM)
+- **Cloud Services**                 : AWS (S3, EC2)
 - **Version Control**                : Git, GitHub
 - **Additional Skills**              : RESTful API Development, Performance Optimization, Responsive Web Design, State Management, Form Validation
 - **Soft Skills**                    : Problem Solving, Team Collaboration, Effective Communication, Adaptability
