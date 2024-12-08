@@ -1,8 +1,16 @@
-# Hi, I'm SANTHOSH KUMAR BARIGEDA
+# Hi, I'm Santhosh 👋
 
-## About Me
+I hold a Bachelor's degree from NSRIT College, completed in 2019. Currently, I'm working as a US IT Recruiter at Whiztekcorp, where I’ve been honing my skills for over two years.
 
-Hey there! I'm Santhosh, a passionate MERN Stack Developer transitioning from IT recruitment, with expertise in building responsive web applications using React.js, Node.js, Express.js, and MongoDB. This README showcases my journey, skills, and projects as I continue crafting full-stack solutions with a focus on seamless user experience and performance.
+## Web Development Journey 🌐
+
+While recruiting has been my primary focus, my curiosity led me to explore web development. I began learning front-end technologies like HTML, CSS, and JavaScript, and quickly progressed to frameworks like React, Next.js, Tailwind CSS, and Material UI. On the backend, I've worked with Node.js, Express, and JWT Authentication. I’ve also delved into AWS, particularly IAM and S3 services.
+
+## Notable Project 🚀
+One project I'm especially proud of is an Airbnb clone that I built from the ground up. This gave me hands-on experience in creating a responsive UI, managing global state, handling forms, and integrating file storage with AWS S3.
+
+## What’s Next? 📚
+I'm currently expanding my skills by learning WebSockets and WebRTC, and I’m excited to incorporate these technologies into my future projects.
 
 ### Skills & Interests:
 
