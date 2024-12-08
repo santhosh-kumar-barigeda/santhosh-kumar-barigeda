@@ -38,12 +38,12 @@ I'm currently expanding my skills by learning WebSockets and WebRTC, and I’m e
 - LinkedIn: [https://www.linkedin.com/in/santhosh-kumar-barigeda]
 - Portfolio: [https://portfolio-git-main-santhoshs-projects-2b80b154.vercel.app]
 
-### Experience 💼
+### Past Experiences (Not Web Development) 💼
 
 - **Sr Technical Recruiter** - Whiztek Corp (May 2022 - Present): Managed end-to-end recruitment for technical roles, optimizing job descriptions, improving candidate quality, and increasing placements by 10% through effective pipeline management.
   
 - **Sr. Associate - Ops** - WNS Global Services (Mar 2021 - Apr 2022): Utilized IMS tools to mitigate fraudulent files and ensure identity verification, achieving a 100% compliance rate.
 
-### Feedback Welcome 📢
+## Feedback Welcome 📢
 
 I'm always looking to grow and improve as a developer. Feel free to reach out with any suggestions, ideas, or feedback on my projects. Let's connect!
