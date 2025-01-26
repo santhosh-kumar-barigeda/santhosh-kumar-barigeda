@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**santhosh-kumar-barigeda/santhosh-kumar-barigeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Santhosh 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hold a Bachelor's degree from NSRIT College, completed in 2019. My passion lies in web development, where I've cultivated a strong foundation in front-end and back-end technologies.
+
+## Web Development Journey 🌐
+
+I began my journey with HTML, CSS, and JavaScript and quickly advanced to frameworks like React, Next.js, and Tailwind CSS. On the backend, I’ve worked with Node.js, Express.js, and JWT Authentication. Additionally, I have experience with AWS services such as IAM and S3, as well as tools like Prisma for database management.
+
+## Skills & Interests ⚙️
+
+- **Programming Languages**          : JavaScript, TypeScript  
+- **Front-End Technologies**         : React.js, Redux Toolkit, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, Ant Design  
+- **Back-End Technologies**          : Node.js, Express.js  
+- **Database Management**            : MongoDB, Prisma  
+- **Cloud Services**                 : AWS (S3, IAM)  
+- **Version Control**                : Git, GitHub  
+- **Additional Skills**              : RESTful API Development, Performance Optimization, Responsive Web Design, State Management, Form Validation  
+- **Soft Skills**                    : Problem Solving, Team Collaboration, Effective Communication, Adaptability  
+
+## Projects 🖥️
+
+- **Airbnb Clone - Hotel Booking Website**:  
+  A full-stack hotel booking system built using React.js, Node.js, Express.js, and MongoDB. Features JWT authentication, AWS S3 media storage for secure image uploads, and responsive user interfaces designed with Tailwind CSS. Managed state using Context API to optimize booking and Wishlist functionality.  
+  **[Source Code](https://github.com/santhosh10378/airbnb-clone)** | **[Live Demo](https://hotel-booking-app-frontend-4qp6.onrender.com)**  
+
+- **Finance SaaS Platform**:  
+  A platform designed for streamlined financial management, offering analytics tools and a responsive UI built with Next.js, Tailwind CSS, and TypeScript.  
+  **[Source Code](https://github.com/santhosh-kumar-barigeda/wealth-wise)** | **[Live Demo](https://wealth-wise-nine.vercel.app)**  
+
+- **Movie App**:  
+  A modern movie discovery platform built with React.js for the frontend and Appwrite for backend services. Features include browsing, searching, and viewing trending movies through a sleek, dynamic, and responsive interface.  
+  **[Source Code](https://github.com/santhosh-kumar-barigeda/movie-app)** | **[Live Demo](https://movie-app-one-xi-76.vercel.app)**  
+
+## Other Details 📝
+### Education 🎓
+
+- **Bachelor of Technology in Mechanical Engineering** - NSRIT (2019)
+
+### Connect with Me 📬
+
+- Email: sbk10378@gmail.com  
+- LinkedIn: [https://www.linkedin.com/in/santhosh-kumar-barigeda](https://www.linkedin.com/in/santhosh-kumar-barigeda)  
+- Portfolio: [https://portfolio-git-main-santhoshs-projects-2b80b154.vercel.app](https://portfolio-git-main-santhoshs-projects-2b80b154.vercel.app)  
+
+## Feedback Welcome 📢
+
+I'm always eager to learn and grow as a developer. Feel free to reach out with feedback or suggestions. Let’s connect!  
