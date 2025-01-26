@@ -2,11 +2,15 @@
 
 # Hi, I'm Santhosh 👋
 
-I hold a Bachelor's degree from NSRIT College, completed in 2019. My passion lies in web development, where I've cultivated a strong foundation in front-end and back-end technologies.
-
 ## Web Development Journey 🌐
 
 I began my journey with HTML, CSS, and JavaScript and quickly advanced to frameworks like React, Next.js, and Tailwind CSS. On the backend, I’ve worked with Node.js, Express.js, and JWT Authentication. Additionally, I have experience with AWS services such as IAM and S3, as well as tools like Prisma for database management.
+
+- 🔭 **I’m currently working on** enhancing my skills in modern web development by exploring WebSockets and WebRTC.  
+- 🌱 **I’m currently learning** advanced backend concepts and real-time communication technologies.  
+- 👯 **I’m looking to collaborate on** open-source web development projects or innovative ideas that bring real-world impact.  
+- 🤔 **I’m looking for help with** optimizing complex web applications for scalability and performance.  
+- 💬 **Ask me about** React.js, Next.js, Tailwind CSS, or anything related to modern web development!  
 
 ## Skills & Interests ⚙️
 
