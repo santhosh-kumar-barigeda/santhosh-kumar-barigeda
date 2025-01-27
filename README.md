@@ -46,7 +46,7 @@ I began my journey with HTML, CSS, and JavaScript and quickly advanced to framew
 
 - Email: sbk10378@gmail.com  
 - LinkedIn: [https://www.linkedin.com/in/santhosh-kumar-barigeda](https://www.linkedin.com/in/santhosh-kumar-barigeda)  
-- Portfolio: [https://portfolio-git-main-santhoshs-projects-2b80b154.vercel.app](https://portfolio-git-main-santhoshs-projects-2b80b154.vercel.app)  
+- Portfolio: [https://portfolio-git-main-santhoshs-projects-2b80b154.vercel.app](https://portfolio-ten-gamma-80.vercel.app)  
 
 ## Feedback Welcome 📢
 
