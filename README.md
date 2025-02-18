@@ -18,10 +18,7 @@ I began my journey with HTML, CSS, and JavaScript and quickly advanced to framew
 **Whiztek Corp | May 2022 – Present**  
 - Developed and maintained the **PVA virtual hospital system**, ensuring a seamless and user-friendly experience for remote patient care.  
 - Designed and implemented **responsive UI components** using **React.js, TypeScript, and Tailwind CSS**, improving application accessibility and performance.  
-- Integrated **Redux** for state management, enhancing efficiency in **patient tracking, monitoring, and task management**.  
-- Optimized API consumption with **Node.js and Express.js**, improving data flow between the frontend and backend.  
-- Worked with **MongoDB** to display dynamic patient data, ensuring real-time updates and efficient data handling.  
-- Implemented **JWT authentication** for secure user access, improving system security and user privacy.  
+- Integrated **Redux Toolkit** for state management, enhancing efficiency in **patient tracking, monitoring, and task management**.  
 - Conducted thorough testing with **Postman** and debugging using **Git and GitHub**, reducing system bugs and improving performance.  
 - Collaborated with cross-functional teams to enhance the **dashboard and patient management modules**, improving user engagement and experience.  
 
