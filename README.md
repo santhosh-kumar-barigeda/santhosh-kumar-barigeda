@@ -14,7 +14,7 @@ I began my journey with HTML, CSS, and JavaScript and quickly advanced to framew
 
 ## **Experience 💼**  
 
-### **Frontend Developer**  
+### **Full Stack Developer**  
 **Whiztek Corp | May 2022 – Present**  
 - Developed and maintained the **PVA virtual hospital system**, ensuring a seamless and user-friendly experience for remote patient care.  
 - Designed and implemented **responsive UI components** using **React.js, TypeScript, and Tailwind CSS**, improving application accessibility and performance.  
