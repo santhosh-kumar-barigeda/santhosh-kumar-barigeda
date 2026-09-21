@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Santhosh Kumar Barigeda</h1>
+<p align="center">Frontend Developer · React · Next.js · React Native · TypeScript</p>
+<p align="center">📍 Visakhapatnam, India (Open to Relocate)</p>
 
-<!--
-**santhosh-kumar-barigeda/santhosh-kumar-barigeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About me
+I'm a frontend developer with 4+ years of experience building production apps in React, Next.js and React Native, all in TypeScript. I own frontends end to end: architecture, state management, API integration, CI/CD and deployment.
 
-Here are some ideas to get you started:
+## 🔧 What I do
+- Build **mobile apps** in React Native with animations (Reanimated, Lottie), push notifications (Firebase Cloud Messaging) and social login
+- Build **admin panels and internal business tools** in Next.js and React, with role-based access, dashboards and validated forms
+- Integrate **APIs and payments** (Stripe Checkout) and manage app state with Zustand and TanStack Query
+- Set up **CI/CD**: GitHub Actions and Fastlane for mobile builds, Vercel and AWS S3 + CloudFront for web deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,firebase,vite,githubactions,aws,vercel,git,github" />
+</p>
+
+| Area | Tools |
+|---|---|
+| Languages | JavaScript, TypeScript, HTML, CSS |
+| Frameworks | React, Next.js, React Native |
+| UI & styling | Tailwind CSS, shadcn/ui |
+| Animation | Reanimated, Lottie |
+| State & data | Zustand, TanStack Query, Axios |
+| Forms & validation | React Hook Form, Zod |
+| Backend & services | Firebase |
+| DevOps & deployment | GitHub Actions, Fastlane, AWS S3, CloudFront, Vercel |
+| Tools | Git, GitHub, Jira |
+
+## 📫 Connect
+- LinkedIn: [santhosh-kumar-barigeda](https://linkedin.com/in/santhosh-kumar-barigeda)
+- Email: santhosh.barigeda@gmail.com
