@@ -1,6 +1,6 @@
 <h1 align="center">Santhosh Kumar Barigeda</h1>
 <p align="center">Frontend Developer · React · Next.js · React Native · TypeScript</p>
-<p align="center">📍 Visakhapatnam, India (Open to Relocate)</p>
+<p align="center">📍 Visakhapatnam, India</p>
 
 ## 👨‍💻 About me
 I'm a frontend developer with 4+ years of experience building production apps in React, Next.js and React Native, all in TypeScript. I own frontends end to end: architecture, state management, API integration, CI/CD and deployment.
